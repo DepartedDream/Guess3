@@ -1,0 +1,13 @@
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.csprojAssemblyReference.cache
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.csproj.GenerateResource.cache
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.csproj.CoreCompileInputs.cache
+D:\Code\Guess7\Guess7\bin\Debug\Guess7.exe.config
+D:\Code\Guess7\Guess7\bin\Debug\Guess7.exe
+D:\Code\Guess7\Guess7\bin\Debug\Guess7.pdb
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.Properties.Resources.resources
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.RankForm.resources
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.exe
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.pdb
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.GameForm.resources
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.MenuForm.resources
+D:\Code\Guess7\Guess7\obj\Debug\Guess7.OptionForm.resources
